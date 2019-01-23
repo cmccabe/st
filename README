@@ -2,6 +2,8 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+This is a fork by Colin P. McCabe <cmccabe@apache.org>.
+Original git upstream: https://git.suckless.org/st/
 
 Requirements
 ------------
