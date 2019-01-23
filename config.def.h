@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
-static int borderpx = 2;
+static char *font = "Go Mono:style=Regular:pixelsize=14:antialias=true:autohint=true";
+static int borderpx = 8;
 
 /*
  * What program is execed by st depends of these precedence rules:
